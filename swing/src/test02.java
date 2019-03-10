@@ -26,7 +26,7 @@ public class test02 {
         System.out.println(second);
 */
        dataTOint("00:02:00");
-        System.out.println(second);
+        System.out.println(second + ":");
     }
 
 
